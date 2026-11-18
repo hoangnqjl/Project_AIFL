@@ -1,0 +1,71 @@
+# ==========================================
+# Android & Gradle
+# ==========================================
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java / Kotlin class files
+*.class
+
+# Generated build directories
+build/
+**/build/
+.gradle/
+.kotlin/
+
+# Local configuration file (SDK location, etc.)
+local.properties
+
+# Keystore and signing files
+*.jks
+*.keystore
+
+# Proguard / R8
+.proguards/
+
+# Log files and profiling
+*.log
+captures/
+
+# NDK / CMake build files
+.externalNativeBuild
+.cxx/
+
+# ==========================================
+# IDE & Editors
+# ==========================================
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# ==========================================
+# Python & ML Models
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+ENV/
+
+# YOLOv8 export & training runs
+runs/
+yolov8n_saved_model/
+
+# ==========================================
+# Operating System
+# ==========================================
+.DS_Store
+Thumbs.db
+Desktop.ini

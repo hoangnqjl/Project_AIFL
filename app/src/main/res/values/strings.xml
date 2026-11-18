@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nhận Diện Vật Thể &amp; Cảnh Báo</string>
+    <string name="camera_permission_required">Ứng dụng cần quyền Camera để nhận diện vật thể xung quanh.</string>
+    <string name="grant_permission">Cấp quyền</string>
+    <string name="inference_time">Thời gian xử lý: %1$d ms</string>
+    <string name="fps">FPS: %1$.1f</string>
+    <string name="detected_objects">Phát hiện: %1$d vật thể</string>
+    <string name="tts_status">Giọng nói: %1$s</string>
+    <string name="fall_status">Phát hiện ngã: %1$s</string>
+    <string name="enabled">BẬT</string>
+    <string name="disabled">TẮT</string>
+</resources>
